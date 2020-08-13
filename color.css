@@ -1,0 +1,46 @@
+body {
+    background-color: #232323;
+    font-family: "lato";
+}
+
+h1  {
+    color: white;
+    text-align: center;
+}
+
+.square {
+    width: 30%;
+    background: purple;
+    padding-bottom: 30%;
+    float: left;
+    margin: 1.66%;
+    
+}
+
+#container  {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+span    {
+    color: white;
+}
+
+#message    {
+    background-color:  rgb(101, 157, 221);
+    padding-bottom: 3px;
+    font-family: "lato"
+}
+
+#stripe {
+    background-color: rgb(142, 176, 192);
+    height: 30px;
+    text-align: center;
+    color: black;
+}
+
+button  {
+    color: white;
+    background-color: rgb(101, 157, 221);
+    border: solid 1px  rgb(101, 157, 221);
+}
